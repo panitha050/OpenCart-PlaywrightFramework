@@ -1,0 +1,3 @@
+testName,email,password,expected
+Valid login,jqyxd@tiffincrane.com,test1234,success
+Invalid login,abcxyz78@xyz.com,abcx8yx,failure

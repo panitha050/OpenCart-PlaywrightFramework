@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","5521","User Login test @master, @sanity, @regression","chromium","Sun Nov 09 09:28:53 IST 2025","passed","Sun Nov 09 09:28:58 IST 2025","","Login.spec.ts","",""
+"","6325","User Registration Test","chromium","Sat Nov 08 22:52:21 IST 2025","passed","Sat Nov 08 22:52:28 IST 2025","","AccountRegistration.spec.ts","",""
+"","5381","User Login test @master,@sanity, @regression","chromium","Sun Nov 09 09:40:50 IST 2025","passed","Sun Nov 09 09:40:56 IST 2025","","Login.spec.ts","",""
+"","6017","User Login test","chromium","Sun Nov 09 08:30:04 IST 2025","passed","Sun Nov 09 08:30:10 IST 2025","","Login.spec.ts","",""
+"","6189","User Registration Test @master, @sanity, @regression","chromium","Sun Nov 09 09:28:46 IST 2025","passed","Sun Nov 09 09:28:52 IST 2025","","AccountRegistration.spec.ts","",""
